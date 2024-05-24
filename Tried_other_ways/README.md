@@ -50,11 +50,11 @@ chainlit run <filename>
 
 Here are some screenshots that demonstrates the chat.
 
-[query_1](./pictures/pic_1.png)
+![query_1](./pictures/pic_1.png)
 
-[query_2](./pictures/pic_2-1.png)
+![query_2](./pictures/pic_2-1.png)
 
-[query_2_result](./pictures/pic_2-2.png)
+![query_2_result](./pictures/pic_2-2.png)
 
 
 ## Observation
