@@ -23,15 +23,15 @@ To install the repository, follow these steps:
   1. Click on link https://ollama.com/download/linux to navigate to ollama official website.
   2. Choose your OS and download ollama. For example, I am using Linux, so I will be firing command
 
-  '''
+  ```
   curl -fsSL https://ollama.com/install.sh | sh
-  '''
+  ```
 
   3. Now, open terminal in linux and fire below command to pull llama3 model, so that we can run the model localy.
 
-  '''
+  ```
   ollama pull llama3
-  '''
+  ```
 
 ## Usage
 
