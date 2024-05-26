@@ -57,3 +57,7 @@ Example:
 ## Observation
 
 Using ollama llama3, I am able to answer basic questions about csv. But, when it comes to more complex questions, the agent took some time and the results are not consistent. Sometimes, the agent will return correct output, sometimes not.
+
+# NOTE
+
+I have added a folder named "Tried_other_ways". In that folder, I have uploaded all the scripts that I tried before making the final python script.
