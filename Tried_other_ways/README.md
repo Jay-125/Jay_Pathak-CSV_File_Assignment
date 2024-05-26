@@ -48,6 +48,28 @@ OR
 chainlit run <filename>
 ```
 
+Below are the screenshots of some UI home pages after running files.
+
+After running 
+
+```
+streamlit run main.py
+```
+
+[main](./pictures/main-py_UI.png)
+
+```
+chainlit run read_with_chainlit.py
+```
+
+[read_with_chainlit](./pictures/read_with_chainlit_UI.png)
+
+```
+streamlit run csv_agent.py
+```
+
+[csv_agent](./pictures/csv_agent_UI.png)
+
 Here are some screenshots that demonstrates the chat.
 
 ![query_1](./pictures/pic_1.png)
